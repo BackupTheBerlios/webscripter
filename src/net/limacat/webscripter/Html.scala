@@ -17,6 +17,10 @@ trait Html {
   protected def closeTag(tag: String): String = {
     "</" + tag + ">"
   }
+  
+  protected def comment(line: String): String = {
+	"<!-- " + line + " -->"
+  }
 
   protected def encap(tag: String, value: Html): String = {
     if (value == null) {

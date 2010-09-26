@@ -1,6 +1,16 @@
-#COMMMENTO
-Eyepet;C;uscito;1;F;http://www.metacritic.com/game/playstation-3/eyepet;http://www.youtube.com/watch?v=TztCY2iz450;http://www.youtube.com/watch?v=oZ_06GUcRx0;Demo su PSN;
+@LICENSE Copyright (C) 2010 Davide Inglima CC BY-SA mailto:limacat@gmail.com
+@LICENSE Data taken from public domain information sources, freely reusable with the complete html dataset as long as the license tags and the html comments are kept in the resulting page
+
+#
+# ROBA ORRIBILE E RITARDATA CHE VERRA' MESSA AL MURO ALL'ARRIVO DELLA RIVOLUZIONE
+#
 Flower;C;vedi note;1;F;http://www.metacritic.com/game/playstation-3/flower;http://www.youtube.com/watch?v=nJam5Auwj1E;http://www.youtube.com/watch?v=3xoiX-dmRxg;Nonostante fosse sulle liste per il lancio, <a href="http://playstationlifestyle.net/2010/09/17/no-move-ing-for-flower-today/">that game company</a> ha smentito l'arrivo di una patch immediato;
+YooStar 2;Z;n/a;U;U;;;;Disponibile anche per: MICROSOFT KINECT! (lol);
+
+#
+# USCITI
+#
+Eyepet;C;uscito;1;F;http://www.metacritic.com/game/playstation-3/eyepet;http://www.youtube.com/watch?v=TztCY2iz450;http://www.youtube.com/watch?v=oZ_06GUcRx0;Demo su PSN;
 Heavy Rain;H;uscito;N;F;http://www.metacritic.com/game/playstation-3/heavy-rain;http://www.youtube.com/watch?v=c_EYaLDCfv4;http://www.youtube.com/watch?v=_YxTVjcjYNg;Demo su PSN
 High Velocity Bowling;C;uscito;1;F;http://www.metacritic.com/game/playstation-3/high-velocity-bowling;http://www.youtube.com/watch?v=Hjk4aaDgCzQ;;;
 Hustle Kings;C;uscito;1;F;http://www.metacritic.com/game/playstation-3/hustle-kings;http://www.youtube.com/watch?v=WObnFyQpdyE;;;
@@ -11,38 +21,66 @@ Planet Minigolf;C;uscito;1;F;http://www.metacritic.com/game/playstation-3/planet
 Resident Evil 5 Gold;H;uscito;N;F;http://www.metacritic.com/game/playstation-3/resident-evil-5;http://www.youtube.com/watch?v=2lm2a4cJuqI;http://www.youtube.com/watch?v=xRShlPAC_iM,http://www.youtube.com/watch?v=9FYFXo33-Wo;Nota bene: é solo per le edizioni GOLD e Move del gioco;
 Tiger Woods PGA Tour 11;H;uscito;1;F;http://www.metacritic.com/game/playstation-3/tiger-woods-pga-tour-11;http://www.youtube.com/watch?v=OQWHzOR17g0;http://www.youtube.com/watch?v=xlCHW3nZfrI;;
 Toy Story 3;H;uscito;1;F;http://www.metacritic.com/game/playstation-3/toy-story-3;http://www.youtube.com/watch?v=ky8JVVmg-MQ;;;
+Kung Fu Rider;C;uscito;1;C;http://www.metacritic.com/game/playstation-3/kung-fu-rider;http://www.youtube.com/watch?v=j9rzc2JmnAI;http://www.youtube.com/watch?v=3i1Zs7O7k0M;Demo su PSN;
+Racket Sports;C;uscito;1;C;;http://www.metacritic.com/game/playstation-3/racquet-sports;http://www.youtube.com/watch?v=LLZOqMA_32A;;Demo su PSN;
+RUSE;H;uscito;N;F;http://www.metacritic.com/game/playstation-3/ruse/critic-reviews;http://www.youtube.com/watch?v=FXwsFpHr3fo;;Demo su PSN;
+Sports Champions;H;uscito;1;C;http://www.metacritic.com/game/playstation-3/sports-champions;http://www.youtube.com/watch?v=4Qd5B3_gb80;http://www.youtube.com/watch?v=X0nkO6-gX48;Demo su PSN;
+Start The Party!;C;uscito;1;C;http://www.metacritic.com/game/playstation-3/start-the-party;http://www.youtube.com/watch?v=TEveLTmqDng;http://www.youtube.com/watch?v=uUjVsORdcsg, http://www.youtube.com/watch?v=Y9xwZO7sTL0;Demo su PSN;
+
+#
+# AUTUNNO 2010
+#
 Ape Escape Fury! Fury!;C;inverno 2010;1;C;;http://www.youtube.com/watch?v=8TYwxKA9JxU;;;
-Beat Sketcher;C;inverno 2010;1;C;;http://www.youtube.com/watch?v=51Sq9iRKwu0;;Demo su PSN;
 Brunswick Pro Bowling;C;autunno 2010;1;U;;http://www.youtube.com/watch?v=ZHdSNUhZ3Is;;;
 Create;C;autunno 2010;U;F;;http://www.youtube.com/watch?v=fo2GvOD_UCs;;;
-Dance Dance Revolution 2010;H;inverno 2010;1;F;;http://www.youtube.com/watch?v=pqyrpv8Hn34;;;
 Ea Sports Active 2;C;autunno 2010;U;F;;http://www.youtube.com/watch?v=9mGP-36Val4;;;
 Get Fit With Mel B.;C;autunno 2010;U;U;;http://www.youtube.com/watch?v=gWuGt2mDgXo;;;
 Heroes on the Move;C;autunno 2010;U;C;;http://www.youtube.com/watch?v=1mgVvj0K6f0;;;
 John Daly's Pro Stroke Golf 2010;C;autunno 2010;U;U;;http://www.youtube.com/watch?v=348JV4ZZYPQ;;;
-Kung Fu Rider;C;uscito;1;C;http://www.metacritic.com/game/playstation-3/kung-fu-rider;http://www.youtube.com/watch?v=j9rzc2JmnAI;http://www.youtube.com/watch?v=3i1Zs7O7k0M;Demo su PSN;
-Racket Sports;C;uscito;1;C;;http://www.metacritic.com/game/playstation-3/racquet-sports;http://www.youtube.com/watch?v=LLZOqMA_32A;;Demo su PSN;
 Sesame Street;C;autunno 2010;U;U;;;;;
 SingStar Dance;C;autunno 2010;U;U;;;;;
-Sports Champions;H;uscito;1;C;http://www.metacritic.com/game/playstation-3/sports-champions;http://www.youtube.com/watch?v=4Qd5B3_gb80;http://www.youtube.com/watch?v=X0nkO6-gX48;Demo su PSN;
-Start The Party!;C;uscito;1;C;http://www.metacritic.com/game/playstation-3/start-the-party;http://www.youtube.com/watch?v=TEveLTmqDng;http://www.youtube.com/watch?v=uUjVsORdcsg, http://www.youtube.com/watch?v=Y9xwZO7sTL0;Demo su PSN;
 The Shoot;C;autunno 2010;1;C;;;;Demo su PSN;
 Tv Superstars;C;autunno 2010;1;C;;;;Demo su PSN;
-STOP
+Deadliest Catch: Sea of Chaos;C;autunno 2010;U;U;;http://www.youtube.com/watch?v=qh31pdO5Gxg;;;
+Disaster Report 4;H;autunno 2010;U;U;;http://www.youtube.com/watch?v=2gqHaIYAN5Q;;;
+Echochrome II;H;autunno 2010;1;C;;http://www.youtube.com/watch?v=jUUh_1EzD0Y;;Demo su PSN;
+Little Big Planet 2;H;autunno 2010;1;P;;http://www.youtube.com/watch?v=Oy_a3oCDzRA;;;
+Kung Fu Live;U;autunno 2010;U;U;;;;;
+
+#
+# INVERNO 2010
+#
+Beat Sketcher;C;inverno 2010;1;C;;http://www.youtube.com/watch?v=51Sq9iRKwu0;;Demo su PSN;
+Dance Dance Revolution 2010;H;inverno 2010;1;F;;http://www.youtube.com/watch?v=pqyrpv8Hn34;;;
+Grand Slam Tennis;U;inverno 2010/;U;U;;;;;
+
+#
+# 2011
+#
+Dead Space: Extraction;H;2011;U;U;;;http://www.youtube.com/watch?v=H-4gcsY2LPQ;In bundle con Dead Space 2 Collector's Edition;
+Killzone 3;H;2011;N;F;;http://www.youtube.com/watch?v=ZRYO8NrlejQ;;;
+Michael Jackson: The Experience;U;2011;U;U;;http://www.youtube.com/watch?v=EKI3U_uFv7Y;;;
+
+#
+# Annunciati
+#
+ICarly 2;U;n/a;U;U;;;;;
+Zumba Fitness;U;n/a;U;U;;;;;
+PDC World Championship Darts: Pro Tour;U;n/a;U;U;;;;;
+Tsuritore;U;n/a;U;U;;;;;
+
+#
+#
+#
+
+@STOP
 
 t;CHPZU;exit;12NU;CFPU;meta;trailer;altriv;note;
+novita;U;n/a;U;U;;;;;
 
 -
 [color=#0000FF][b]ROBA HARDCORE IN RETAIL![/b][/color]
-Deadliest Catch: Sea of Chaos. [i]Autunno 2010[/i]
-Dead Space: Extraction. [i]2011[/i] [color=#008000]In bundle con Dead Space 2 Collector's Edition.[/color]
-Disaster Report 4. [i]Autunno 2010[/i]
-Echochrome II [i]Autunno 2010[/i] (Demo su PSN)
-Grand Slam Tennis [i]Inverno 2010[/i]
-John Daly’s ProStroke Golf. [i]Autunno 2010[/i]
-Killzone 3 [i]2011[/i]
-Little Big Planet 2 [i]Autunno 2010[/i] [color=#008000]Solo parte del gioco richiede Move.[/color]
-Michael Jackson: The Experience. [i]Autunno 2010[/i]
+
 NBA 2K11. [i]Autunno 2010[/i]
 No More Heroes: Heroes Paradise. [i]Nota bene: il motion é stato annunciato solo per l'edizione europea del gioco.[/i]
 The Lord of The Rings. Aragorn's Quest.
@@ -51,7 +89,6 @@ Oddworld: Stranger’s Wrath.
 SOCOM 4: U.S. Navy SEALs [i]Autunno 2010[/i]
 Sly Collection [i]Autunno 2010[/i] [color=#008000]Solo parte del gioco richiede Move.[/color]
 Sorcery [i]Primavera 2011[/i]
-RUSE (Ubisoft);http://www.metacritic.com/game/playstation-3/ruse/critic-reviews]Metacritic[/url].;http://www.youtube.com/watch?v=FXwsFpHr3fo;, (Demo su PSN)
 Time Crisis: Razing Storm (Bandai Namco) [i]Autunno 2010[/i]
 Tron Evolution. [i]Autunno 2010[/i]
 Virtua Tennis 4.
@@ -63,13 +100,3 @@ PixelJunk: Lifelike.
 Stardrone.
 Tumble.;http://www.metacritic.com/game/playstation-3/tumble;http://www.youtube.com/watch?v=358gsPUfmdE;http://www.gametrailers.com/video/review-pod-tumble/703858]Gametrailers[/url],
 Under Siege.
---
-[color=#0000FF][b]NON SAPPIAMO ANCORA COME CLASSIFICARLI[/b][/color]
-PDC World Championship Darts: Pro Tour.
-Tsuritore.
---
-[color=#0000FF][b]SIAMO ANCORA INDECISI SE USERANNO MOVE O MENO!!![/b][/color]
-Kung Fu Live. [i]Autunno 2010[/i]
-----
-[color=#FF0000][b]L'ANGOLO DELLA PAR CONDICIO: SHOVELWARE PER MOVE!![/b][/color]
-YooStar 2.  [color=#008000]Disponibile anche per: [i]Microsoft Kinect[/i]![/color]

@@ -47,7 +47,6 @@ sealed case class Supporto(val supportoType: String) extends Html {
   def toHtml(): String = {
     supportoType
   }
-
 }
 
 case object SC extends Supporto("completo")
@@ -83,35 +82,51 @@ class Game(val title: String, val categoria: Categoria, val uscita: String, val 
 
 }
 
+class License(val content : String) extends Html {
+
+  def toHtml(): String = {
+    comment(content)
+  }
+
+}
+
 class Script {
+  var stop = false;
 
   def execute(): Unit = {
-    var stop = false;
 
     val reader = new GameLineReader();
+    val licenseReader = new LicenseReader();
 
+    var myLicense : List[License] = List.empty[License]
     var mySet: Set[Game] = TreeSet.empty[Game]
 
     def pd(line: String): Unit = {
-      if (line.startsWith("STOP")) {
-        stop = true
-      }
-      if (!stop && !line.startsWith("#")) {
-        try {
-          mySet = mySet + reader.readLine(line)
-        } catch {
-          case flx: FormatException => Console.println(flx.fieldsInError)
+    	
+      try {
+        if (!stop) {
+          line match {
+            case line if (line.startsWith("@LICENSE")) => myLicense =  licenseReader.readLine(line) :: myLicense
+            case line if (line.startsWith("@STOP")) => stop = true
+            case line if (line.startsWith("#")) => return
+            case line if (line.trim().equals("")) => return
+            case _ => mySet = mySet + reader.readLine(line)
+          }
         }
+      } catch {
+        case flx: FormatException => Console.println(line + ": " + flx.fieldsInError)
       }
     }
 
-    val header = "<tr><th>titolo</th><th>categoria</th><th>uscita</th><th>controller</th><th>supporto</th><th>metacritic</th><th colspan=\"2\">video</th><th>note</th></tr>"
-    Console.println("<table>");
-    Console.println(header);
     scala.io.Source.fromFile("D:\\Dave\\Work\\Eclipse\\Scala-Web\\Webscripter\\src\\net\\limacat\\webscripter\\games.txt").getLines.foreach { line =>
       pd(line)
     }
+
+    myLicense.reverse.foreach { line => Console.println(line.toHtml()) }
+    val header = "<tr><th>titolo</th><th>categoria</th><th>uscita</th><th>controller</th><th>supporto</th><th>metacritic</th><th colspan=\"2\">video</th><th>note</th></tr>"
+    Console.println("<table>");
+    Console.println(header);
     mySet.foreach { game => Console.println(game.toHtml()) }
-       Console.println("</table>");    
+    Console.println("</table>");
   }
 }

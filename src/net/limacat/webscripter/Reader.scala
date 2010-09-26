@@ -56,7 +56,7 @@ case object CategoriaMapper extends MadMapper[Categoria](Map("C" -> CASUAL, "H" 
 case object ControllerMapper extends MadMapper[Controller](Map("1" -> C1, "2" -> C2, "N" -> C1N, "U" -> CNA))
 case object SupportoMapper extends MadMapper[Supporto](Map("C" -> SC, "P" -> SP, "F" -> SF, "U" -> SU))
 
-class MadMapper[T >: Null <: AnyRef](collection : Map[String, T]) extends Mapper[T] {
+class MadMapper[T >: Null <: AnyRef](collection: Map[String, T]) extends Mapper[T] {
 
   def readFrom(field: String): T = {
     try {
@@ -65,7 +65,7 @@ class MadMapper[T >: Null <: AnyRef](collection : Map[String, T]) extends Mapper
       case exc: NoSuchElementException => null
     }
   }
-	
+
 }
 
 case object MetacriticLinkMapper extends LinkMapper("metacritic");
@@ -113,6 +113,14 @@ object ArrayLinkMapper extends Mapper[Array[Link]] {
       y(i) = x(i)
     }
     y
+  }
+
+}
+
+class LicenseReader() {
+
+  def readLine(line: String): License = {
+    new License(line.substring("@LICENSE".length).trim)
   }
 
 }
