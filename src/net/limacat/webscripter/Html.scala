@@ -1,3 +1,11 @@
+/*
+	Webscripter - a simple html creator
+    Copyright (C) 2010 Davide Inglima
+	
+	This unit test is in the public domain.
+
+	Contact: limacat@gmail.com
+ */
 package net.limacat.webscripter
 
 trait Html {
